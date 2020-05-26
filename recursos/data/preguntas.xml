@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<preguntas>
+    <pregunta>
+        <descripcion>Mascota bigotuda que ronronea.</descripcion>
+        <respuesta>CAT</respuesta>
+        <traduccion>GATO</traduccion>
+        <nivel>1</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>El mejor amigo del hombre.</descripcion>
+        <respuesta>DOG</respuesta>
+        <traduccion>PERRO</traduccion>
+        <nivel>1</nivel>
+    </pregunta>
+     <pregunta>
+        <descripcion>Animal acuático muy apetecido en semana santa.</descripcion>
+        <respuesta>FISH</respuesta>
+        <traduccion>PEZ</traduccion>
+        <nivel>2</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>Animal marino muy diestro con el balón.</descripcion>
+        <respuesta>SEAL</respuesta>
+        <traduccion>FOCA</traduccion>
+        <nivel>2</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>Bello animal que podemos encontrar en el hipódromo.</descripcion>
+        <respuesta>HORSE</respuesta>
+        <traduccion>CABALLO</traduccion>
+        <nivel>3</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>El mejor amigo del queso.</descripcion>
+        <respuesta>MOUSE</respuesta>
+        <traduccion>RATON</traduccion>
+        <nivel>3</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>Animal muy apetecido en el día de acción de gracias o en año nuevo.</descripcion>
+        <respuesta>TURKEY</respuesta>
+        <traduccion>PAVO</traduccion>
+        <nivel>4</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>Él quiere cacao.</descripcion>
+        <respuesta>PARROT</respuesta>
+        <traduccion>LORO</traduccion>
+        <nivel>4</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>¡Este animal tiene muchos brazos con ventosas… y arroja tinta!</descripcion>
+        <respuesta>OCTOPUS</respuesta>
+        <traduccion>PULPO</traduccion>
+        <nivel>5</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>Viste de blanco y negro y vive en el polo sur.</descripcion>
+        <respuesta>PENGUIN</respuesta>
+        <traduccion>PINGÜINO</traduccion>
+        <nivel>5</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>Gran tamaño, grandes orejas y gran memoria.</descripcion>
+        <respuesta>ELEPHANT</respuesta>
+        <traduccion>ELEFANTE</traduccion>
+        <nivel>6</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>Además de ser peligroso por su ponzoña, también es un signo zodiacal.</descripcion>
+        <respuesta>SCORPIO</respuesta>
+        <traduccion>ESCORPIÓN</traduccion>
+        <nivel>6</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>Ya no puede caminar, porque le falta una pata para andar.</descripcion>
+        <respuesta>COCKROACH</respuesta>
+        <traduccion>CUCARACHA</traduccion>
+        <nivel>7</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>Primero fue larva, luego oruga y ahora está listo para volar.</descripcion>
+        <respuesta>BUTTERFLY</respuesta>
+        <traduccion>MARIPOSA</traduccion>
+        <nivel>7</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>El mejor amigo de Tarzán.</descripcion>
+        <respuesta>CHIMPANZEE</respuesta>
+        <traduccion>CHIMPANCÉ</traduccion>
+        <nivel>8</nivel>
+    </pregunta>
+    <pregunta>
+        <descripcion>Se puso a martillar, haciéndole un agujero a un gordísimo peral.</descripcion>
+        <respuesta>WOODPECKER</respuesta>
+        <traduccion>PÁJARO CARPINTERO</traduccion>
+        <nivel>8</nivel>
+    </pregunta>
+</preguntas>
